@@ -8,6 +8,7 @@ For example:
 <img width="357" height="322" alt="image" src="https://github.com/user-attachments/assets/334b8c39-d547-4743-aca0-de92e38bdd1c" />
 
 
+
 ## Algorithm
 1. Start the program and read the 9×9 Sudoku board.
 Empty cells are represented by 0.
@@ -125,7 +126,9 @@ public class SudokuSolver {
 ```
 
 ## Output:
-<img width="670" height="621" alt="image" src="https://github.com/user-attachments/assets/c914410d-005a-40e6-ae09-ad5897cb6202" /
+<img width="670" height="621" alt="image" src="https://github.com/user-attachments/assets/c914410d-005a-40e6-ae09-ad5897cb6202" />
+
+
 
 ## Result:
 The program successfully implemented and the expected output is verified.
